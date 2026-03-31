@@ -7,7 +7,7 @@ The project presents an empirical volatility forecasting methodology aimed at pr
 
 A full write-up of the methodology, assumptions and results is included in the repository:
 
-Quant_assignment_documentation.pdf - documentation report.
+`Quant_assignment_documentation.pdf` 
 
 **Project Summary**
 
