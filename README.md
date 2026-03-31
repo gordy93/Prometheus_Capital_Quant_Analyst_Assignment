@@ -15,7 +15,7 @@ The project presents an empirical volatility forecasting methodology aimed at pr
 
 **Output**
 
-For each symbol _i_, the notebook produces:
+For each stock _i_, the notebook produces:
 1. Daily realized variance and realized volatility series.
 2. HAR features (daily, weekly and monthly RV components).
 3. One-month-ahead predicted volatility path.
