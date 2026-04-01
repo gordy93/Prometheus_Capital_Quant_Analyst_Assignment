@@ -11,19 +11,19 @@ A full write-up of the methodology, assumptions and results is included in the r
 
 **Project Summary**
 
-1. Clean and align high-frequency price data.
-2. Compute intraday log returns.
-3. Build realised variance (RV) from intraday returns.
-4. Construct HAR features (daily, weekly and monthly components).
-5. Fit the HAR-RV regression model.
-6. Generate one-month-ahead volatility forecast path.
-7. Report and visualise realised vs. forecasted volatility.
+* Clean and align high-frequency price data.
+* Compute intraday log returns.
+* Build realised variance (RV) from intraday returns.
+* Construct HAR features (daily, weekly and monthly components).
+* Fitt the HAR-RV regression model.
+* Generate one-month-ahead volatility forecast path.
+* Report and visualise realised vs. forecasted volatility.
 
 **Output**
 
 For each stock _i_, the notebook produces:
-1. Daily realised variance and realised volatility series.
-2. HAR features (daily, weekly and monthly RV components).
-3. One-month-ahead predicted volatility path.
-4. Summary statistics of predicted volatility.
-5. Plots comparing historical realised volatility and forecasted volatility.
+* Daily realised variance and realised volatility series.
+* HAR features (daily, weekly and monthly RV components).
+* One-month-ahead predicted volatility path.
+* Summary statistics of predicted volatility.
+* Plots comparing historical realised volatility and forecasted volatility.
