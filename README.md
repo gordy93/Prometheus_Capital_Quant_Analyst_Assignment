@@ -27,3 +27,5 @@ For each stock _i_, the notebook produces:
 * One-month-ahead predicted volatility path.
 * Summary statistics of predicted volatility.
 * Plots comparing historical realised volatility and forecasted volatility.
+
+_Google drive environment is essential to run this code_
